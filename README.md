@@ -10,10 +10,10 @@ A mini project to learn React.js by building a simple ToDo list application.
 
 ## Installation
 
-git clone https://github.com/sarathi-dj/ToDoList.git
-cd ToDoList
-npm install
-npm start
+- git clone https://github.com/sarathi-dj/ToDoList.git
+- cd ToDoList
+- npm install
+- npm start
 
 ## Learning Source
 
