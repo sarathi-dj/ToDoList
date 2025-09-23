@@ -2,6 +2,8 @@
 
 A mini project to learn React.js by building a simple ToDo list application.
 
+view my wesite on https://react-toodooapp.netlify.app/
+
 ## Features
 
 - Add, delete, and mark tasks as completed
@@ -20,5 +22,3 @@ A mini project to learn React.js by building a simple ToDo list application.
 This project was developed by following the React.js full course tutorial by [Smol James](https://www.youtube.com/watch?v=82PXenL4MGg). 
 
 The course covers React fundamentals through practical projects, including a ToDo list app similar to this one.
-
-view my wesite on https://react-toodooapp.netlify.app/
